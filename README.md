@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/yzztin/count.svg)
 
-<!-- ![亮色](https://raw.githubusercontent.com/yzztin/yzztin/output/github-contribution-grid-snake.svg) -->
-![深色](https://raw.githubusercontent.com/yzztin/yzztin/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/yzztin/yzztin/output/github-contribution-grid-snake.svg)
+<!-- ![深色](https://raw.githubusercontent.com/yzztin/yzztin/output/github-contribution-grid-snake-dark.svg) -->

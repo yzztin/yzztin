@@ -27,5 +27,3 @@ Here are some ideas to get you started:
   </picture> -->
 
 ![亮色](https://raw.githubusercontent.com/yzztin/yzztin/output/github-contribution-grid-snake.svg)
-![暗色](https://raw.githubusercontent.com/yzztin/yzztin/output/github-contribution-grid-snake-dark.svg)
-

@@ -26,7 +26,6 @@ Here are some ideas to get you started:
     <img alt="github-snake" src="https://raw.githubusercontent.com/yzztin/yzztin/output/github-contribution-grid-snake.svg" />
   </picture>
 
-  <!--
+  
   ![snake亮色](https://raw.githubusercontent.com/yzztin/yzztin/output/github-contribution-grid-snake.svg)
-  ![snake暗色](https://raw.githubusercontent.com/yzztin/yzztin/output/github-contribution-grid-snake-dark.svg)
-  -->
+  <!-- ![snake暗色](https://raw.githubusercontent.com/yzztin/yzztin/output/github-contribution-grid-snake-dark.svg) -->

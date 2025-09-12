@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 
 ![yzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yzztin&show_icons=true&theme=tokyonight)
 
-![Visitor Count](https://profile-counter.glitch.me/yzztin/count.svg)
-
 ![亮色](https://raw.githubusercontent.com/yzztin/yzztin/output/github-contribution-grid-snake.svg)
 <!-- ![深色](https://raw.githubusercontent.com/yzztin/yzztin/output/github-contribution-grid-snake-dark.svg) -->
